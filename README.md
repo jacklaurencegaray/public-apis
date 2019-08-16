@@ -28,6 +28,7 @@ Please note a passing build status indicates all listed APIs are available since
 * [Data Validation](#data-validation)
 * [Development](#development)
 * [Dictionaries](#dictionaries)
+* [Disasters](#disasters)
 * [Documents & Productivity](#documents--productivity)
 * [Environment](#environment)
 * [Events](#events)
@@ -284,6 +285,11 @@ API | Description | Auth | HTTPS | CORS |
 | [Oxford](https://developer.oxforddictionaries.com/) | Dictionary Data | `apiKey` | Yes | No |
 | [Wordnik](http://developer.wordnik.com) | Dictionary Data | `apiKey` | No | Unknown |
 | [Words](https://www.wordsapi.com/) | Definitions and synonyms for more than 150,000 words | `apiKey` | Yes | Unknown |
+
+### Disasters
+API | Description | Auth | HTTPS | CORS |
+|---|---|---|---|---|
+| [USGS](https://earthquake.usgs.gov/fdsnws/event/1/) | Earthquake Data | `apiKey` | Yes | Unknown
 
 ### Documents & Productivity
 API | Description | Auth | HTTPS | CORS |
